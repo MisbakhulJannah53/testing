@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'selenium-webdriver', '= 4.9.0'
+gem 'webdrivers'
+gem 'rspec'
+gem 'capybara'
+gem 'cucumber'
